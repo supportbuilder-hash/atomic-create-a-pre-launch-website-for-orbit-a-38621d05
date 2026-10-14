@@ -5,25 +5,25 @@
 @layer base {
   :root {
     /* @tokens */
-    --background: 244.6 100% 97.5%;
-    --foreground: 250 41.7% 14.1%;
-    --primary: 256.4 91.4% 54.5%;
-    --card: 0 0% 100%;
-    --muted: 244.3 36.8% 92.5%;
-    --secondary: 244.3 36.8% 92.5%;
-    --accent: 270.7 91% 65.1%;
-    --border: 250 78.3% 91%;
-    --ring: 256.4 91.4% 54.5%;
-    --destructive: 0 72.2% 50.6%;
+    --background: 0 0% 3.9%;
+    --foreground: 0 0% 100%;
+    --primary: 72 100% 50%;
+    --card: 0 0% 7.8%;
+    --muted: 0 0% 14.1%;
+    --secondary: 0 0% 14.1%;
+    --accent: 72 100% 50%;
+    --border: 0 0% 20%;
+    --ring: 72 100% 50%;
+    --destructive: 0 100% 63.3%;
     --popover: 0 0% 100%;
     --input: 250 78.3% 91%;
-    --muted-foreground: 252.4 16.3% 40.8%;
-    --card-foreground: 250 41.7% 14.1%;
+    --muted-foreground: 0 0% 100%;
+    --card-foreground: 0 0% 100%;
     --popover-foreground: 250 41.7% 14.1%;
-    --primary-foreground: 0 0% 100%;
-    --secondary-foreground: 222.2 47.4% 11.2%;
+    --primary-foreground: 222.2 47.4% 11.2%;
+    --secondary-foreground: 0 0% 100%;
     --accent-foreground: 222.2 47.4% 11.2%;
-    --destructive-foreground: 0 0% 100%;
+    --destructive-foreground: 222.2 47.4% 11.2%;
     --radius: 1rem;
     /* @end-tokens */
   }
