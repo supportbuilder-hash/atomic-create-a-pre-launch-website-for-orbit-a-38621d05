@@ -1,0 +1,40 @@
+{
+  "brand": {
+    "name": "Orbit",
+    "tagline": "Your money, auto-piloted by AI.",
+    "logoUrl": null
+  },
+  "navLinks": [
+    {
+      "key": "home",
+      "href": "/"
+    },
+    {
+      "key": "features",
+      "href": "#features"
+    },
+    {
+      "key": "founder_s_note",
+      "href": "#founder"
+    },
+    {
+      "key": "faq",
+      "href": "#faq"
+    },
+    {
+      "key": "join_waitlist",
+      "href": "#waitlist"
+    }
+  ],
+  "primaryCta": {
+    "key": "primary",
+    "href": "#waitlist"
+  },
+  "footerColumns": [],
+  "socialLinks": [],
+  "motion": {
+    "intensity": 7
+  },
+  "navbarVariant": "split",
+  "footerVariant": "simple"
+}

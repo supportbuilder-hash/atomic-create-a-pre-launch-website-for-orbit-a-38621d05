@@ -1,0 +1,133 @@
+{
+  "nav": {
+    "home": "Home",
+    "features": "Features",
+    "founder_s_note": "Founder's Note",
+    "faq": "FAQ",
+    "join_waitlist": "Join Waitlist"
+  },
+  "cta": {
+    "primary": "Join the Waitlist"
+  },
+  "footer": {
+    "tagline": "Your money, auto-piloted by AI.",
+    "rights": "All rights reserved.",
+    "columns": {
+      "product": "Product",
+      "company": "Company"
+    },
+    "links": {
+      "features": "Features",
+      "faq": "FAQ",
+      "founder_s_note": "Founder's Note",
+      "join_waitlist": "Join the Waitlist"
+    }
+  },
+  "hero": {
+    "eyebrow": "Launching soon",
+    "titleMain": "Budgeting on",
+    "titleAccent": "autopilot.",
+    "subtitle": "Orbit uses AI to track every dollar, sort your spending automatically, and nudge you toward your savings goals before the bill ever arrives.",
+    "countdown": {
+      "days": "Days",
+      "hours": "Hours",
+      "minutes": "Minutes",
+      "seconds": "Seconds"
+    },
+    "form": {
+      "namePlaceholder": "Your name",
+      "emailPlaceholder": "you@email.com",
+      "submit": "Join the waitlist",
+      "errorRequired": "Please enter your name and email.",
+      "errorEmail": "Please enter a valid email address.",
+      "successTitle": "You're on the list!",
+      "successBody": "You're number {position} in line. We'll email you the moment Orbit launches.",
+      "disclaimer": "No spam, ever. Just one email when we launch."
+    },
+    "socialProof": "Join {count}+ people already waiting for launch.",
+    "mockup": {
+      "title": "Orbit",
+      "period": "This month",
+      "balanceLabel": "Available to spend",
+      "balanceValue": "$4,218.42",
+      "categories": [
+        {
+          "name": "Groceries",
+          "amount": "$412"
+        },
+        {
+          "name": "Transport",
+          "amount": "$168"
+        },
+        {
+          "name": "Subscriptions",
+          "amount": "$86"
+        }
+      ],
+      "billName": "Electric utility",
+      "billDue": "Due in 3 days"
+    }
+  },
+  "socialProof": {
+    "headline": "{count} people already waiting for launch day.",
+    "badge": "Live waitlist"
+  },
+  "features": {
+    "eyebrow": "What Orbit does for you",
+    "title": "Three ways Orbit keeps you ahead of your money",
+    "subtitle": "No spreadsheets, no manual entry. Orbit watches your accounts and does the thinking so you don't have to.",
+    "items": [
+      {
+        "title": "Auto-categorized spending",
+        "description": "Every transaction is sorted into the right category the moment it happens, so you always know where your money went without lifting a finger."
+      },
+      {
+        "title": "Smart savings goals",
+        "description": "Tell Orbit what you're saving for and it quietly adjusts your weekly budget, finds safe-to-save cash, and moves you closer to your goal."
+      },
+      {
+        "title": "Bill reminders",
+        "description": "Orbit spots recurring bills automatically and reminds you days before they're due, so you never get hit with a late fee again."
+      }
+    ]
+  },
+  "founder": {
+    "eyebrow": "From the founder",
+    "title": "Why we're building Orbit",
+    "quote": "I spent years manually dragging transactions into spreadsheets, trying to figure out where my money went. Orbit is the tool I wish I'd had: an AI that does the tedious part of budgeting so you can focus on the decisions that actually matter.",
+    "name": "Priya Patel",
+    "role": "Co-founder & CEO, Orbit"
+  },
+  "faq": {
+    "eyebrow": "Questions",
+    "title": "Frequently asked questions",
+    "subtitle": "Everything you need to know before launch day.",
+    "items": [
+      {
+        "question": "When does Orbit launch?",
+        "answer": "We're putting the finishing touches on Orbit now. Join the waitlist and you'll be the first to know the exact date, plus you'll get access before the general public."
+      },
+      {
+        "question": "Is my bank data secure?",
+        "answer": "Yes. Orbit connects to your accounts through encrypted, read-only connections. We never store your bank credentials, and your data is never sold."
+      },
+      {
+        "question": "Will there be a free plan?",
+        "answer": "Orbit will launch with a free tier that covers auto-categorization and bill reminders, plus a premium plan for advanced savings goals and deeper insights."
+      },
+      {
+        "question": "What platforms will Orbit support?",
+        "answer": "Orbit launches on iOS and the web, with Android following shortly after. Your data syncs automatically across every device."
+      },
+      {
+        "question": "How is my place in line decided?",
+        "answer": "Waitlist spots are assigned in the order you sign up. The earlier you join, the sooner you'll get access and the better your launch-week perks."
+      }
+    ]
+  },
+  "finalCta": {
+    "title": "Don't miss launch day.",
+    "subtitle": "Join the waitlist now and we'll email you the second Orbit goes live, plus an early-bird discount for your first three months.",
+    "button": "Reserve my spot"
+  }
+}
